@@ -7,7 +7,7 @@ import processing.core.PVector;
 public class Personaje {
 	
 	private PApplet p;
-	
+	 
 	private PVector pos, vel, acel;
 	private PImage der, izq, aba, up;
 	private int po;

@@ -9,7 +9,7 @@ import processing.core.PImage;
 public class NivelUno {
 
 	private PApplet p;
-
+ 
 	private Personaje per;
 	private Objetitos init;
 	private ArrayList<Objetitos> listos;

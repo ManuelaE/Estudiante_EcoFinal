@@ -170,7 +170,7 @@ public class Juego {
 
 	public void cargarImagenes() {
 		juego = p.loadImage("../data/juego/juego.png");
-		
+
 		
 		nivel0 = p.loadImage("../data/juego/nivel0.png");
 		nivel1 = p.loadImage("../data/juego/nivel7.png");

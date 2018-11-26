@@ -7,7 +7,7 @@ public class Objetitos implements Comparable<Objetitos>{
 
 	private PApplet p;
 
-	private int forma, x, y, pos;
+	private int forma, x, y, pos; 
 	private PImage cir, tri, rec, five, seis, sfor;
 
 	public Objetitos(PApplet p, int x, int y,int pos, int forma) {
